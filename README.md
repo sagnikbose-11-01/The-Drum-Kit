@@ -4,7 +4,7 @@ This is a simple drumkit project where you can play various drum sounds by eithe
 
 ## Demo
 
-You can try out the DrumKit project live : 
+You can try out the DrumKit project live : https://sagnikbose-11-01.github.io/The-Drum-Kit/
 
 ## How to Use
 
