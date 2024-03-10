@@ -1,0 +1,90 @@
+body {
+  text-align: center;
+  /* background-color: #283149; */
+  background: linear-gradient(45deg, #08001f, #7413c9);
+  
+    /*background-image: url('https://i.pinimg.com/564x/be/5f/01/be5f0117194126b38af902b136a2cc87.jpg');  Specify the URL of your image */
+    /*background-size: cover; /* Make the image cover the entire background */
+    /*background-position: center; /* Center the image within the element */
+  background-repeat: no-repeat;/* Prevent the image from repeating */
+  height: 100vh;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #dbf611;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+
+}
+
+footer {
+  color: #dbf611;
+  font-family: sans-serif;
+}
+
+/*order - tom1, tom2, tom3, tom4, snare, crash, kick*/
+
+.w {
+    background-image: url("./images/tom1.png");
+}
+
+.a {
+    background-image: url("./images/tom2.png");
+}
+
+.s {
+    background-image: url("./images/tom3.png");
+}
+
+.d {
+    background-image: url("./images/tom4.png");
+}
+
+.j {
+  background-image: url("./images/snare.png");
+}
+
+.k {
+  background-image: url("./images/crash.png");
+}
+
+.l {
+  background-image: url("./images/kick.png");
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #dbf611;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #dbf611;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
