@@ -1,7 +1,5 @@
 # The-Drum-Kit
 
-# DrumKit Project
-
 This is a simple drumkit project where you can play various drum sounds by either clicking on the drum options or by pressing the corresponding keys on your keyboard. It's built using HTML, CSS, and JavaScript.
 
 ## Demo
